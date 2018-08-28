@@ -6,6 +6,8 @@ main:
     url: /Contatti/
   - title: "Parroco"
     url: /Parroco/
+  - title: "Links"
+    url: /Links/
 
 
   #- title: "About"
