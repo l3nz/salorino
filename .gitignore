@@ -1,0 +1,5 @@
+.bundle/
+Gemfile.lock
+/sito/.bundle/
+/sito/Gemfile.lock
+
