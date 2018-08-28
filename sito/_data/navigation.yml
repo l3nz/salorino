@@ -4,6 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Contatti"
     url: /Contatti/
+  - title: "Parroco"
+    url: /Parroco/
+
 
   #- title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
