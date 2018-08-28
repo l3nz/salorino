@@ -4,6 +4,7 @@ title:  "Bollettino n 6"
 date:   2018-08-28 06:56:47 +0200
 categories: bollettino 1806
 author: mp
+tags: a b c
 ---
 
 
