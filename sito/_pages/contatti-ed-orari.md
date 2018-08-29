@@ -37,3 +37,7 @@ Sig. Graziano Poretti – presidente Consiglio parrocchiale	 tel. 091/646.40.71
 
 Conto corrente postale “Parrocchia di Salorino”	        	 nr. 69-5564-7 
 
+
+
+{% include indirizzo.md %}
+

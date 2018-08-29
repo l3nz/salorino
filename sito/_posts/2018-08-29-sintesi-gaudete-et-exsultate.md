@@ -3,6 +3,7 @@ layout: single
 title:  "Sintesi dell’Esortazione Apostolica “Gaudete et exsultate” sulla chiamata alla santità del mondo contemporaneo"
 date:   2018-08-28 06:56:47 +0200
 categories: bollettino 1806
+tags: PrimaComunione Storia Lettere
 author: mp
 ---
 
