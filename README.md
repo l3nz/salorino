@@ -41,7 +41,9 @@ Da decidere il nome a dominio.
 
 ....
 
-## Contenuti
+## Contenuti 
+
+### Pagine
 
 - Home page e contatti
 - Il parroco
@@ -51,16 +53,29 @@ Da decidere il nome a dominio.
 - Cenni storici
 - Links
 
+### Categories
+
+- Bollettino
+- Ospiti
+
+
 ## Tags
 
 - News
-- Offerte
 - Calendario
 - Storia
 - Lettere
+- PrimaComunione
+- Cresima
+- GruppoGenitori
+- Gruppo Anziani
+- Corale
+- Bollettino-1806
 
+### Authors
 
-
+- mp
+- 
 
 
 
