@@ -47,10 +47,15 @@ Da decidere il nome a dominio.
 
 - Home page e contatti
 - Il parroco
-- Consiglio parrocchiale
-- La confraternita
-- Il coro
+- Attività
+  * Consiglio parrocchiale
+  * La confraternita
+  * La corale
+  * Gruppo Genitori
+  * Gruppo Anziani
 - Cenni storici
+  * Le chiese
+  * Salorino
 - Links
 
 ### Categories
