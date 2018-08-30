@@ -3,7 +3,7 @@ layout: single
 title:  "Calendario liturgico parrocchiale Luglio-Ottobre 2018"
 date:   2018-08-28 06:56:47 +0200
 categories: bollettino 
-tags: appuntamenti
+tags: Appuntamenti
 author: mp
 ---
 
@@ -22,40 +22,40 @@ author: mp
 
 **AGOSTO**
 
-1. 	mercoledì: Festa Nazionale Svizzera 
+1 	mercoledì: **Festa Nazionale Svizzera** - 
 Come gli scorsi anni la nostra diocesi organizza il pellegrinaggio al 	 Passo del San Gottardo con la celebrazione eucaristica del nostro       Vescovo Valerio, alle ore 10.30.
 
 5 	domenica XVIII durante l’anno
 
-6 	lunedì: festa della trasfigurazione del Signore
+6 	lunedì: **Festa della trasfigurazione del Signore**
 
 12	domenica XIX durante l’anno
 
-14 	martedì: vigilia dell’assunzione di Maria SS.
+14 	martedì: **vigilia dell’assunzione di Maria SS.** -
 	ore 17.30 Eucaristia festiva in chiesa parrocchiale
 
-15 	mercoledì: solennità dell’assunzione di Maria SS. (festa di precetto)
+15 	mercoledì: **solennità dell’assunzione di Maria SS. (festa di precetto)**
 	ore 10.00 Eucaristia a Cragno per tutta la comunita
 	Segue il tradizionale incanto dei doni a favore delle necessita 	dell’Oratorio.
 
-16 	giovedì: memoria liturgica di san Rocco
+16 	giovedì: **memoria liturgica di san Rocco**
 	ore 20.00 Eucaristia in oratorio di san Rocco
 
-19 	domenica XX durante l’anno e festa esterna di san Rocco
-	ore 10.00 Eucaristia per tutta la comunita in san Rocco
+19 	domenica XX durante l’anno e **festa esterna di san Rocco** - 
+	ore 10.00 Eucaristia per tutta la comunita in san Rocco.
 	Segue il tradizionale incanto dei doni a favore delle necessita 	dell’Oratorio.
 
 26 	domenica XXI durante l’anno
 
 **SETTEMBRE**
 
-1.	sabato: memoria liturgica della Madonna del Sasso
+1.	sabato: **memoria liturgica della Madonna del Sasso**
 
-2 	domenica XXII durante l’anno e festa esterna della Madonna del 	Sasso 
+2 	domenica XXII durante l’anno e **festa esterna della Madonna del 	Sasso ** -
 ore 10.00 Eucaristia festiva all’Oratorio di Somazzo.                            Preghiera per allievi e genitori all’inizio del nuovo anno scolastico.
 	Segue il tradizionale incanto dei doni a favore delle necessità 	dell’Oratorio.
 
-5 	mercoledì: confessioni per tutti gli allievi dalle 13.30 alle 14.15
+5 	mercoledì: **confessioni per tutti gli allievi dalle 13.30 alle 14.15**
 
 7 	venerdì: 8.30 Eucaristia e adorazione eucaristica
 
