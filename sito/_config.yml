@@ -219,6 +219,12 @@ whitelist:
   - jemoji
 
 
+collections:
+  info:
+    output: true
+    permalink: /info/:path/
+
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -271,3 +277,16 @@ defaults:
       comments: # true
       share: true
       related: true
+  
+  # _info
+  - scope:
+      path: ""
+      type: info
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "info"

@@ -2,10 +2,8 @@
 main:
   - title: "Quick-Start Guide x"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Contatti"
-    url: /Contatti/
-  - title: "Parroco"
-    url: /Parroco/
+  - title: "Informazioni"
+    url: /info/contatti-ed-orari/
   - title: "Links"
     url: /Links/
 
@@ -18,3 +16,26 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+info:
+  - title: Informazioni
+    children:
+    - title: "Contatti ed orari"
+      url: /info/contatti-ed-orari/
+    - title: "Il Parroco"
+      url: /info/parroco/ 
+    - title: "Le chiese"
+      children:
+        - title: "San Zenone"
+          url: /a
+        - title: "Oratorio S. Giuseppe"
+          url: /b
+    - title: "Gruppi"
+      children:
+        - title: "Consiglio parrocchiale"
+        - title: "La corale"
+        - title: "Gruppo anziani"
+        - title: "Gruppo genitori" 
+        - title: "Confraternita" 
+    - title: "Cenni storici" 
+

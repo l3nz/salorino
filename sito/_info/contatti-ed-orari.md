@@ -1,7 +1,5 @@
 ---
-layout: single
 title: Contatti ed orari delle S. Messe
-permalink: /contatti/
 ---
 
 

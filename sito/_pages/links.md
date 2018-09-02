@@ -11,4 +11,6 @@ Comune di Mendrisio
 
 Cenni storici su Salorino
 
+Patriziato
+
 

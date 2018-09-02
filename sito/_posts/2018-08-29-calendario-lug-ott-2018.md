@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "Calendario liturgico parrocchiale Luglio-Ottobre 2018"
 date:   2018-08-28 06:56:47 +0200
 categories: bollettino 

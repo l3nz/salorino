@@ -1,10 +1,9 @@
 ---
-layout: single
 title: Il vostro Parroco
-permalink: /Parroco/
+author: mp
 ---
 
-Biografia: 
+# Biografia: 
 Don Maksym Podhajski
 
 n. 1 maggio 1983
