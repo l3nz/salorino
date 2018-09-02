@@ -39,7 +39,10 @@ Da decidere il nome a dominio.
 
 ## Generazione
 
-....
+### Post futuri
+
+http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html
+
 
 ## Contenuti 
 
