@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Post Archive with Feature Rows"
+title: "Tutti gli articoli"
 permalink: /news/
-author_profile: true
+author_profile: false
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -50,10 +50,4 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
