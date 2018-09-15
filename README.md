@@ -2,6 +2,7 @@
 
 Il sito temporaneo per la parrocchia di Salorino.
 
+Deployment temporaneo: https://prova-salorino.netlify.com/
 
 Contenuti:
 

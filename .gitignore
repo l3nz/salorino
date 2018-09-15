@@ -2,4 +2,4 @@
 Gemfile.lock
 /sito/.bundle/
 /sito/Gemfile.lock
-
+.DS_Store
