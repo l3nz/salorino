@@ -17,6 +17,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+
+
 info:
   - title: Informazioni
     children:
@@ -24,18 +26,26 @@ info:
       url: /info/contatti-ed-orari/
     - title: "Il Parroco"
       url: /info/parroco/ 
-    - title: "Le chiese"
-      children:
-        - title: "San Zenone"
-          url: /a
-        - title: "Oratorio S. Giuseppe"
-          url: /b
-    - title: "Gruppi"
-      children:
-        - title: "Consiglio parrocchiale"
-        - title: "La corale"
-        - title: "Gruppo anziani"
-        - title: "Gruppo genitori" 
-        - title: "Confraternita" 
-    - title: "Cenni storici" 
+  - title: "Gruppi"
+    children:
+      - title: "Consiglio parrocchiale"
+        url: "/info/gruppo-consiglio-parrocchiale/"
+      - title: "La corale"
+        url: "/info/gruppo-corale/"
+      - title: "Gruppo anziani"
+        url: "/info/gruppo-anziani/"
+      - title: "Gruppo genitori"
+        url: "/info/gruppo-genitori/" 
+      - title: "Confraternita"
+        url: "/info/gruppo-confraternita/" 
+  - title: "Cenni storici"
+    children:
+      - title: "La storia"
+        url: "/info/storia/" 
+  - title: "Le chiese"
+    children:
+      - title: "San Zenone"
+        url: "/info/chiesa-san-zenone/"
+      - title: "Oratorio S. Giuseppe"
+        url: "/info/chiesa-oratorio-san-giuseppe/"
 
