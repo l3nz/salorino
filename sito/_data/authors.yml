@@ -11,7 +11,7 @@ mp:
   name: "don Maksym"
   bio: "Parroco di Salorino."
   avatar: "/assets/images/bio/DonMaksym.png"
-  uri: "/parroco/"
+  uri: "/info/parroco/"
 
 ldb:
   name: "Luigi d b"
