@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Quando la  SCUOLA si faceva in parrocchia"
-date:   2018-10-16 06:56:47 +0200
+date:   2018-10-12 06:56:47 +0200
 categories: bollettino 1811
 tags: Storia
 author: ldb
