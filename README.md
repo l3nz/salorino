@@ -45,7 +45,24 @@ Da decidere il nome a dominio.
 http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html
 
 
+
+
+
+
+
 ## Contenuti 
+
+## Aggiunta di articoli
+
+Ciascun bollettino ha una categoria propria, es `1811` per Novembre 2018.
+
+Gli articoli vanno messi sotto `sito/_posts/`.
+
+Le foto vanno estratte via copia/incolla sotto `assets/images/bollettino18`.
+
+
+
+
 
 ### Pagine
 
