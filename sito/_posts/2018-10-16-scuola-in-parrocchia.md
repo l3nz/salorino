@@ -39,18 +39,43 @@ La partecipazione  dei ragazzi in età scolastica  alle 3 lezioni settimanali di
 Nel frattempo dalla canonica l’aula scolastica viene spostata per questioni di spazio nella casa cappellanica, sede del cappellano, situata ove sorge ora l’ex palazzo comunale.
 Nel 1792 Il nuovo parroco don Giovan Battista Isella in accordo con la Confraternita, per rendere gratuita detta scuola e dare maggiori possibilità di istruzione ai ragazzi, rivolge al Vescovo il seguente appello:
 
-__La Confraternita del SS Sacramento eretta in questa Chiesa Parrocchiale di Salorino dal fu Nob. Sig. Abbondio Cappello, che la lascia pure erede universale di tutte le sue sostanze come consta dal suo  testamento rogato dal Notaio Sigr. Francesco Ghiringhelli il 22 marzo 1658, con preciso obbligo, di cotale eredità serva a mantenere la Cappellania da lui fondata in detta Chiesa e di quanto sopravanza metà  parte da impiegarsi al Cappellano a beneficio, per la ” scuola “ ad istruzione de fanciulli di questa Comunità.__
 
-__“Noi amministratori bramando avere una scuola gratuita x detta comunità de Salorino, nei giorni comunemente scolastici e senza aggravio pecuniario de scolari e rispettive famiglie.”__
 
-__Umilmente chiediamo a  Lei S.E. Monsignor Vescovo di avallare la nostra richiesta di un aumento della mercede da L.Milanesi 400 a 500 L. annue al Cappellano (maestro) per detto benefico scopo…..__
+{% capture notice-text %}
 
-__Richiesta accolta…: Il vicario generale della diocesi comasca, don Gerolamo Stoppani, dà licenza.
+La Confraternita del SS Sacramento eretta in questa Chiesa Parrocchiale di Salorino dal fu Nob. Sig. Abbondio Cappello, che la lascia pure erede universale di tutte le sue sostanze come consta dal suo  testamento rogato dal Notaio Sigr. Francesco Ghiringhelli il 22 marzo 1658, con preciso obbligo, di cotale eredità serva a mantenere la Cappellania da lui fondata in detta Chiesa e di quanto sopravanza metà  parte da impiegarsi al Cappellano a beneficio, per la ” scuola “ ad istruzione de fanciulli di questa Comunità.
+
+“Noi amministratori bramando avere una scuola gratuita x detta comunità de Salorino, nei giorni comunemente scolastici e senza aggravio pecuniario de scolari e rispettive famiglie.”
+
+Umilmente chiediamo a  Lei S.E. Monsignor Vescovo di avallare la nostra richiesta di un aumento della mercede da L.Milanesi 400 a 500 L. annue al Cappellano (maestro) per detto benefico scopo…..
+
+{% endcapture %}
+
+<div class="notice--primary">
+  {{ notice-text | markdownify }}
+</div>
+
+
+
+Richiesta accolta…: Il vicario generale della diocesi comasca, don Gerolamo Stoppani, dà licenza.
 Con Decreto Vescovile il 4 marzo 1792
 Scuola tutti i giorni scolastici previsti al tempo, ossia da San Martino a metà maggio.
 
 
+
+
+{% capture notice-text %}
 * 1803 Il Ticino diventa Cantone Svizzero a tutti gli effetti e istituisce la scuola pubblica, con la prima legge sulla scuola  del 1804 e stabilisce:
 __In ogni comune ci sarà una scuola elementare dove si insegnerà  a  leggere, scrivere e i principi di aritmetica, la scuola sarà affidata ai parroci, cappellani o altre persone capaci e probe, i genitori saranno obbligati a mandarvi i figli, i comuni multeranno i negligenti o refrattari.__
-* 1831 Scuola per tutti – seconda legge scolastica, si parla in modo esplicito di pubblica istruzione per tutti ,e deve essere impartita ad ambedue i sessi, ossia figli e figlie. (per la prima volta si parla di scuola anche per ragazze….)                                         
+* 1831 Scuola per tutti – seconda legge scolastica, si parla in modo esplicito di pubblica istruzione per tutti ,e deve essere impartita ad ambedue i sessi, ossia figli e figlie. (per la prima volta si parla di scuola anche per ragazze….)
+{% endcapture %}
+
+<div class="notice--info">
+  <h4>Cronologia:</h4>
+  {{ notice-text | markdownify }}
+</div>
+
+
+
+                                         
 

@@ -1,10 +1,9 @@
 ---
 layout: single
-title:  "Corale parrocchiale"
-date:   2018-10-16 06:56:47 +0200
+title:  "Prove della corale parrocchiale"
+date:   2018-10-12 06:56:47 +0200
 categories: bollettino 1811
-author: mp
-tags: Corale
+tags: 	Comunità Corale
 ---
 
 

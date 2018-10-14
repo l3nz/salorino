@@ -10,45 +10,54 @@ tags: Vocabolario
 
 La parola “Avvento” deriva dal latino e significa “venuta”. È il periodo che inizia ogni anno liturgico e ha lo scopo di prepararci per la venuta di Cristo Signore. Questa venuta ha una triplice dimensione: ci prepara a celebrare la nascita di Cristo da più di 2.000 anni, attendiamo la seconda venuta del Signore alla fine dei tempi, e in modo spirituale ci prepariamo per la nascita di Cristo nei nostri cuori e nelle nostre vite attraverso la partecipazione al rito, un'intensa preghiera, i sacramenti e prendendosi cura del prossimo, nel quale troviamo il volto di Gesù Bambino. Il simbolo liturgico di questo periodo è la corona dell'Avvento, che consiste in 4 candele, che rappresentano ogni domenica dell'Avvento dalla prima alla quarta. Quest'anno, la prima domenica cade il 2 dicembre. 
 
+
+{% capture notice-text %}
 **A Maria, sentinella del mattino**
 
 Santa Maria, Vergine dell’attesa, 
-
+<br>
 donaci del tuo olio perché le nostre lampade si spengono.
-
+<br>
  Vedi: le riserve si sono consumate. Non ci mandare ad altri venditori, 
-
+<br>
 riaccendi nelle nostre anime gli antichi fervori 
-
+<br>
 che ci bruciavano dentro, 
-
+<br>
 quando bastava un nonnulla per farci trasalire di gioia. 
-
+<br>
 Santa Maria,Vergine dell’attesa, 
-
+<br>
 donaci un’ anima vigiliare.  Sentinella del mattino, 
-
+<br>
 ridestaci nel cuore la passione di giovani annunci 
-
+<br>
 da portare al mondo, che si sente già vecchio. 
-
+<br>
 Portaci finalmente arpa e cetra, 
-
+<br>
 perché con te mattiniera possiamo svegliare l’aurora.
-
+<br>
  Facci capire che non basta accogliere: bisogna attendere. 
-
+<br>
 Accogliere talvolta è segno di rassegnazione. 
-
+<br>
 Attendere è sempre segno di speranza. 
-
+<br>
 Rendici, perciò, ministri dell’attesa. 
-
+<br>
 E il Signore che viene, Vergine dell’attesa, ci sorprenda, 
-
+<br>
 anche per la tua materna complicità, con la lampada in mano.
 
 __Don Tonino Bello__
+
+{% endcapture %}
+
+<div class="notice--info">
+  {{ notice-text | markdownify }}
+</div>
+
 
 
 
@@ -60,9 +69,13 @@ Il Natale del Signore lo festeggiamo il 25 dicembre. Secondo la tradizione, i cr
 Il presepe e i canti di Natale ci aiutano ad avvicinarsi a questo mistero della nostra salvezza. Natale viene festeggiato nella liturgia durante l’ottava, cioè 8 giorni, coronata dalla festa della Beata Vergine Maria, la Madre di Dio, alla quale affidiamo un nuovo anno della nostra storia, il 1. gennaio. 
 
 
+
+
+{% capture notice-text %}
 “Il Natale di solito è una festa rumorosa: ci farebbe bene un po’ di silenzio per ascoltare la voce dell’ Amore.
 
 Natale sei tu, quando decidi di nascere di nuovo ogni giorno e lasciare entrare Dio nella tua anima. L’albero di Natale sei tu quando resisti vigoroso ai venti e alle difficoltà della vita. Gli addobbi di Natale sei tu quando le tue virtù sono i colori che adornano la tua vita. La campana di Natale sei tu quando chiami, congreghi e cerchi di unire.
+
 Sei anche luce di natale quando illumini con la tua vita il cammino degli altri con la bontà la pazienza l’allegria e la generosità. Gli angeli di Natale sei tu quando canti al mondo un messaggio di pace di giustizia e di amore. La stella di Natale sei tu quando conduci qualcuno all’ incontro con il Signore. Sei anche i re magi quando dai il meglio che hai senza tenere conto a chi lo dai. La musica di Natale sei tu quando conquisti l’ armonia dentro di te. Il regalo di Natale sei tu quando sei un vero amico e fratello di tutti gli esseri umani.
 
 Gli auguri di Natale sei tu quando perdoni e ristabilisci la pace anche quando soffri. Il cenone di Natale sei tu quando sazi di pane e di speranza il povero che ti sta di fianco.
@@ -71,6 +84,10 @@ Un buon Natale a tutti coloro che assomigliano al Natale.”
 
 __Papa Francesco__
 
+{% endcapture %}
 
+<div class="notice--info">
+  {{ notice-text | markdownify }}
+</div>
 
 
