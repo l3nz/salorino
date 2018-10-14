@@ -25,17 +25,5 @@ title: Contatti ed orari delle S. Messe
 Il parroco è sempre a disposizione prima o dopo l’Eucaristia feriale e al sabato dalle 17.00 innanzi.
 
 
-## Contatti
-
-Parrocchia di San Zenone – 6872 Salorino
-
-Don Maksym Podhajski, amministratore parrocchiale	 tel. 091/646.19.59
-
-Sig. Graziano Poretti – presidente Consiglio parrocchiale	 tel. 091/646.40.71
-
-Conto corrente postale “Parrocchia di Salorino”	        	 nr. 69-5564-7 
-
-
-
 {% include indirizzo.md %}
 
