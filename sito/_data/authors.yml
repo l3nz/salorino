@@ -15,7 +15,9 @@ mp:
 
 ldb:
   name: "Luigi del Bosco"
-  
+  bio: "Archivista della parrocchia, collaboratore al riordino dell'archivio comunale e patriziale di Salorino."
+  avatar: "/assets/images/bio/DelBosco.jpg"
+    
 
 meg:
   name: "Maria Elena"
