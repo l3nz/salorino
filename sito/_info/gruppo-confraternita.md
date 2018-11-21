@@ -12,7 +12,7 @@ TBD
 
 
 <div class="notice--info">
-<h4>Altri articoli sulla Confraternita:</h4>
+<h4>Articoli sulla Confraternita:</h4>
 <ul>
 {% for post in site.posts %}
   {% if post.tags contains "Confraternita" %}

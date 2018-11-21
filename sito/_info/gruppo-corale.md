@@ -9,7 +9,7 @@ TBD
 
 
 <div class="notice--info">
-<h4>Altri articoli sulla Corale:</h4>
+<h4>Articoli sulla Corale:</h4>
 <ul>
 {% for post in site.posts %}
   {% if post.tags contains "Corale" %}
