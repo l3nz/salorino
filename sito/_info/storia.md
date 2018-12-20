@@ -2,7 +2,7 @@
 title: Cenni storici
 ---
 
-Da una chiesa primigenia dedicata a  [San Zeno o Zenone](https://it.wikipedia.org/wiki/Zeno_di_Verona) vescovo di Verona, il cui culto potrebbe essere stato importato dall’antica emigrazione delle maestranze salorinesi, si ha notizia già nel 1330. Dal 1582 si hanno notizie di quella attuale, senza il portico e il sagrato costruiti negli anni tra il 1650 e il 1780.
+Da una chiesa primigenia dedicata a  [San Zeno (o Zenone)](/info/san-zenone/) vescovo di Verona, il cui culto potrebbe essere stato importato dall’antica emigrazione delle maestranze salorinesi, si ha notizia già nel 1330. Dal 1582 si hanno notizie di quella attuale, senza il portico e il sagrato costruiti negli anni tra il 1650 e il 1780.
 
 Nel 1601, dopo aver costruito la canonica, il vescovo di Como concedeva ai salorinesi la possibilità di elevare a Parrocchia la loro chiesa, con un proprio parroco, fino a quel momento si dipendeva dalla chiesa madre di Balerna.
 

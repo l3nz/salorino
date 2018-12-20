@@ -42,6 +42,8 @@ info:
     children:
       - title: "La storia"
         url: "/info/storia/" 
+      - title: "Vita di S. Zenone"
+        url: "/info/san-zenone/"  
   - title: "Le chiese"
     children:
       - title: "San Zenone"
