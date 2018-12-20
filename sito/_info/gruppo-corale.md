@@ -1,9 +1,9 @@
 ---
-title: La corale
+title: La corale di San Zenone
 ---
 
-TBD
 
+{% raw %}<img src="/assets/images/base/corale.jpg" alt="La corale di S Zenone" class="full">{% endraw %}
 
 
 
