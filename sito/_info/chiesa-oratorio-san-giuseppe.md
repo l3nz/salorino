@@ -1,5 +1,5 @@
 ---
-title: Oratorio San Giuseppe
+title: Chiesa / Oratorio di San Giuseppe a Somazzo
 ---
 
 TBD
