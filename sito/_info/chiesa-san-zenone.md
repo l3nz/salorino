@@ -66,3 +66,8 @@ Sulla sinistra congiunto al portico l’ex Ossario, oggi cappella di San Antonio
 * **1962/64:** Il restauratore Fabio Cavallini ritocca e restaura il coro, gli stucchi del 1913 di Ercole Pagani e le pitture del 1916  di Silvio Gilardi.
 
 **Luigi D.Bosco 2007**
+
+## Mappa
+
+{% raw %}<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d694.4711492619756!2d8.992596764934422!3d45.87361840046354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sch!4v1548603087967" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>{% endraw %}
+
