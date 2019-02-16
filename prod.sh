@@ -8,14 +8,15 @@ bundle exec jekyll build --config "_config.yml" -d "_UPLOAD_ME"
 # Rimpiazza il contenuto di <title>...</title>
 INDEX="./_UPLOAD_ME/index.html"
 
-sed -i '' \
-   's%<title>.\{1,\}<\/title>%<title>Parrocchia di Salorino</title>%' \
-   $INDEX
+perl -p -i -e 's%<title>.+<\/title>%<title>Parrocchia di Salorino<\/title>%' $INDEX
+
+
+#sed -i '' \
+#   's%<title>.\{1,\}<\/title>%<title>Parrocchia di Salorino</title>%' \
+#   $INDEX
 
 find ./_UPLOAD_ME -type f -name "index.html" -exec \
-	sed -i '' \
-   		's%Powered by .\{1,\}.<\/div>%<\/div>%' \
-   		{} \;
+	perl -p -i -e 's%Powered by .+\.<\/div>%<\/div>%' {} \;
 
 
 
