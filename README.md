@@ -104,6 +104,18 @@ Le foto vanno estratte via copia/incolla sotto `assets/images/bollettino18`.
 - 
 
 
+## Immagini
+
+Le immagini vanno riscalate con ImageMagick:
+
+
+	$ identify anniversari_matrimonio.jpg
+	anniversari_matrimonio.jpg JPEG 4128x3096 4128x3096+0+0 8-bit sRGB 1.34375MiB 0.000u 0:00.009
+
+Questo comando converte l'immagine per stare in un quadrato max 800x800, a meno che non sia più piccola. 
+
+	convert anniversari_matrimonio.jpg -resize 800x800\>  anniversari_matrimonio.jpg
+
 
 
 
