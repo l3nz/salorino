@@ -21,3 +21,19 @@ Buona lettura a tutti!
                                                                               
 don Maksym 	
 
+
+<div class="notice--info">
+<h4>Contenuti del bollettino:</h4>
+<ul>
+{% for post in site.posts %}
+
+  {% if post.categories contains "1903" %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>({{ post.tags | join: ", " }})</small>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+</div>
+
