@@ -1,10 +1,24 @@
 ---
-title: La corale di San Zenone
+title: La Corale Parrocchiale San Zenone
 ---
 
+La prima corale, composta da soli uomini, nasce nel 1950 su iniziativa dell’allora  parroco Don Primo Vaghetti appena giunto a Salorino. 
+La direzione è affidata fin dall’inizio al mo. Ezio Fontana di Mendrisio, che funge pure da organista e che manterrà entrambi gli incarichi fino al 2000. La corale presta il suo servizio in parrocchia in occasione delle S. Messe, delle funzioni e delle processioni nelle principali festività dell’anno e in rare occasioni è stata pure chiamata a cantare fuori paese per particolari ricorrenze.
 
-{% raw %}<img src="/assets/images/base/corale.jpg" alt="La corale di S Zenone" class="full">{% endraw %}
+All’inizio degli anni sessanta la corale si arricchisce della presenza di voci femminili. 
 
+A partire dal 2000 a tutt’oggi l’incarico di organista e direttore della corale è svolto  dal mo. Ettore Brenni.
+
+Dal 2001, a scadenza biennale, la corale parrocchiale partecipa regolarmente al Convegno Diocesano delle Corali Liturgiche, occasione interessante per acquisire nuovi brani e confrontarsi con altri cori parrocchiali. 
+
+Attualmente la corale conta una quindicina di cantori.
+
+     
+
+
+{% raw %}<img src="/assets/images/base/corale.jpg" alt="La corale San Zenone in occasione della festa del Corpus Domini 2017" class="full">{% endraw %}
+
+La corale San Zenone in occasione della festa del Corpus Domini 2017.
 
 
 
