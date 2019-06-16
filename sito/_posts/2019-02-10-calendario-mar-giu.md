@@ -176,7 +176,7 @@ ore 10.00 unica Eucaristia per tutta la comunità
 
 30 	**XIII domenica ordinaria**
 
-
+**Nota:** il calendario esatto delle S. Messe per il mese di Giugno è dettagliato [qui]({% post_url 2019-06-15-supplenze-estive %}).
 
 
 
