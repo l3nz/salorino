@@ -116,8 +116,20 @@ Questo comando converte l'immagine per stare in un quadrato max 800x800, a meno 
 
 	convert anniversari_matrimonio.jpg -resize 800x800\>  anniversari_matrimonio.jpg
 
+### Cartella -> Galleria
+
+Se voglio convertire tutta una cartella, posso farlo. Vado nella cartella e faccio:
 
 
+    mkdir _results
+    magick mogrify -format jpg -path ./_results -resize 800x800\>  -auto-orient  -quality 70% *.jpg
+
+-strip -interlace Plane
+
+Poi lo copi sotto /images/2019/.....
+
+Per realizzare una gallery, una volta si abbiano le foto nella cartella, è sufficioente copiare un file Gallery (es "corpus-domini")
+e far gireare lo script mkGallery che stampa il codice su stdout.
 
 
 
