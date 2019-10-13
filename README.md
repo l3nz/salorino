@@ -101,7 +101,17 @@ Le foto vanno estratte via copia/incolla sotto `assets/images/bollettino18`.
 ### Authors
 
 - mp
-- 
+
+
+## Bollettino
+
+Le pagine del bollettino vanno create come:
+
+    ./mkPaginaBollettino.sh la-notizia
+
+Partendo dall'ultima alla prima. Appaiono nel bollettino corrente (vedi `mkPaginaBollettino`) 
+e vanno fatte dall'ultima alla prima.
+
 
 
 ## Immagini
