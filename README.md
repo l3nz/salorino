@@ -116,6 +116,8 @@ e vanno fatte dall'ultima alla prima.
 
 ## Immagini
 
+Per le immagini, apro il sorgente DOC,copio ed incollo in preview;  poi salvo come JPG.
+
 Le immagini vanno riscalate con ImageMagick:
 
 
@@ -125,6 +127,15 @@ Le immagini vanno riscalate con ImageMagick:
 Questo comando converte l'immagine per stare in un quadrato max 800x800, a meno che non sia più piccola. 
 
 	convert anniversari_matrimonio.jpg -resize 800x800\>  anniversari_matrimonio.jpg
+
+
+Per embeddarle:
+
+    {% raw %}<img class="full"
+     src="/assets/images/bollettino1910/modulata_carmina.jpg" 
+     alt="il gruppo vocale MODULATA CARMINA">
+    {% endraw %}
+
 
 ### Cartella -> Galleria
 

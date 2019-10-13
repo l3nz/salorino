@@ -20,8 +20,8 @@ ldb:
     
 
 meg:
-  name: "Maria Elena"
-  bio: ".."
+  name: "Maria Elena G."
+  bio: ""
 
 eb:
   name: "Ettore "
@@ -31,3 +31,7 @@ gg:
   name: "Gabriele"
   bio: "..."
 
+
+sp:
+  name: "Selina P."
+  bio: ""
