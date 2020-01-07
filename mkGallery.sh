@@ -1,6 +1,6 @@
 #! /bin/bash
 
-GALLERY="2019/corpusdomini"
+GALLERY="2019/lanternata"
 
 LOCAL=./sito/assets/images/${GALLERY}
 
