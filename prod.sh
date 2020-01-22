@@ -8,8 +8,11 @@ cd sito
 
 #source /etc/profile.d/rvm.sh && ruby -v && /usr/local/bin/bundle install --path ~/_vendor/bundle && /usr/local/bin/bundle exec jekyll build --config "_config.yml" -d "_UPLOAD_ME"
 
-bundle install --path ~/_vendor/bundle && \
- bundle exec jekyll build --config "_config.yml" -d "_UPLOAD_ME"
+BUNDLE="/usr/local/bin/bundle"
+
+
+$BUNDLE install --path ~/_vendor/bundle && \
+ $BUNDLE exec jekyll build --config "_config.yml" -d "_UPLOAD_ME"
 
 
 # Rimpiazza il contenuto di <title>...</title>
