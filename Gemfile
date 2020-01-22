@@ -4,4 +4,4 @@ gem "pkg-config"
 gem "json"
 gem "jekyll"
 gem "nokogiri"
-
+gem "jemoji"
