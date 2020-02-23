@@ -3,7 +3,7 @@ layout: single
 title:  "Concerto 2 Novembre 2019"
 date:   2019-10-13 14:05:12 +0200
 categories: bollettino 1910
-tags: Comunità Appuntamenti
+tags: Comunità Appuntamenti Musica
 ---
 
 CONCERTO

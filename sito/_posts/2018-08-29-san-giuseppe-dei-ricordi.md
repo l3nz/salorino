@@ -3,7 +3,7 @@ layout: single
 title:  "San Giuseppe dei ricordi... 1968"
 date:   2018-08-28 06:56:47 +0200
 categories: bollettino
-tags: Storia
+tags: Storia SanGiuseppe
 author: ldb
 ---
 

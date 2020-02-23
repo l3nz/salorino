@@ -131,6 +131,25 @@ Il curato:	Don Giuseppe Spinelli….
 *- Archivista Luigi Del Bosco 2002*
 
 
+
+## Approfondimenti
+
+<div class="notice--info">
+<ul>
+{% for post in site.posts %}
+  {% if post.tags contains "Storia" and post.tags contains "SanGiuseppe"  %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>({{ post.date | date: "%d.%m.%Y"  }})</small>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+</div>
+
+
+## Mappa
+
 {% raw %}<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2777.6696091845333!2d8.990547115390168!3d45.87791931376301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4784284b963bcbcb%3A0xfbea159f3e032fcf!2sVia+S.+Giuseppe%2C+6872+Mendrisio!5e0!3m2!1sen!2sch!4v1548962510671" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>{% endraw %}
 
 

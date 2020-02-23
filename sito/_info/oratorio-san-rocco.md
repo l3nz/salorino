@@ -29,9 +29,22 @@ Navata con volta a vela  con raffigurata la “Gloria di San Rocco” e il presb
 Restauri e ristrutturazioni nel 1952  e nel 1984.
 
 
+
 ## Approfondimenti
 
-* [Storia dell'Oratorio di San Rocco](/bollettino/2003/sanrocco/)
+<div class="notice--info">
+<ul>
+{% for post in site.posts %}
+  {% if post.tags contains "Storia" and post.tags contains "SanRocco"  %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>({{ post.date | date: "%d.%m.%Y"  }})</small>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+</div>
+
 
 
 ## Mappa

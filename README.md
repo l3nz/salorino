@@ -1,15 +1,50 @@
 # salorino
 
-Il sito temporaneo per la parrocchia di Salorino.
+Il sito per la parrocchia di Salorino.
 
-Deployment temporaneo: https://prova-salorino.netlify.com/
+## Suddivisioni
 
-Contenuti:
+### Categories
 
-- Infrastruttura
-- Come generare il sito
-- Piano dei contenuti
-- Tags
+- bollettino YYMM
+- Foto
+- ospiti
+- (vuota)
+
+### Tags
+
+
+
+Posts by Tag
+
+- Comunità
+- GruppoFamiglie
+- Appuntamenti
+- Lettere
+- Storia
+- PapaFrancesco
+- GruppoAnziani
+- Confraternita
+- Corale
+- Brevi
+- Vocabolario
+- Musica
+- Coretto
+- SanRocco
+- SanZenone
+- SanGiuseppe
+- Cragno
+
+
+
+### Autori
+
+- mp
+- ldb
+- meg
+
+
+
 
 
 ## Infrastruttura

@@ -3,7 +3,7 @@ layout: single
 title:  "L’ultimo appuntamento della primavera organistica 2019 a Salorino - 1 Giugno 2019"
 date:   2019-06-16 06:56:47 +0200
 categories: bollettino 1907
-tags: Comunità Corale
+tags: Comunità Corale Musica
 ---
 
 Il mo. Andrea Schiavio ancora una volta, a distanza di un paio d’anni, ha voluto organizzare nella nostra chiesa un concerto organistico, valorizzando così il nostro piccolo ma prezioso strumento. 
