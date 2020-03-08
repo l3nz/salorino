@@ -9,7 +9,8 @@ Il sito per la parrocchia di Salorino.
 - bollettino YYMM
 - Foto
 - ospiti
-- (vuota)
+- anno2020
+- (vuota)   - se possibile non usare
 
 ### Tags
 

@@ -26,7 +26,7 @@ ore 17.30 Via Crucis
 14	sabato: benedizione delle famiglie in Via Lunga dalle ore 9.00
 
 15 	**III domenica di Quaresima** -
-In questa domenica la nostra comunità vive il **pranzo povero**: tutti sono invitati. È un segno di condivisione e solidarietà con i più bisognosi
+In questa domenica la nostra comunità vive il pranzo povero: tutti sono invitati. È un segno di condivisione e solidarietà con i più bisognosi. **Evento annullato.**  
 
 19	giovedì: **festa di S. Giuseppe**, sposo della B.V. Maria, patrono di       Somazzo 
 	ore 10.00 Eucaristia a Somazzo per tutta la comunità.
