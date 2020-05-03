@@ -1,0 +1,87 @@
+---
+layout: single
+title:  "Corpus Domini 2016 e saluto a don Giuseppe"
+date:   2020-04-30 16:56:47 +0200
+categories: Foto
+tags: Comunità Confraternita
+gallery: 
+
+  - url: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0001.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0001.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0006.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0006.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0008.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0008.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0010.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0010.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0012.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG-20160606-WA0012.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1158.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1158.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1159.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1159.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1160.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1160.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1162.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1162.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1163.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1163.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1164.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1164.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1166.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1166.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1168.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1168.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1169.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1169.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1170.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1170.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1171.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1171.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1174.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1174.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1175.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1175.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1176.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1176.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1177.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1177.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1179.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1179.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1181.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1181.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1182.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1182.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1184.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1184.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1186.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1186.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1187.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1187.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1188.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1188.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1191.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1191.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1192.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1192.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1193.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1193.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1194.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1194.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1195.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1195.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1196.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1196.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1197.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1197.jpg"
+  - url: "/assets/images/2016/corpus-domini-16/IMG_1209.jpg"
+    image_path: "/assets/images/2016/corpus-domini-16/IMG_1209.jpg"
+---
+
+Alcune immagini del Corpus Domini del 26 maggio 2016, e saluto a don Giuseppe Albisetti.
+
+
+
+{% include gallery caption="Grazie a tutti per la partecipazione!" %}
+
+

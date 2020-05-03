@@ -6,6 +6,9 @@ main:
     url: /info/contatti-ed-orari/
   - title: "Links"
     url: /Links/
+  - title: "Gallerie"
+    url: /idx/categories/foto/
+
 
 
   #- title: "About"
