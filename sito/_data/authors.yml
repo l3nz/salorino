@@ -18,6 +18,9 @@ ldb:
   bio: "Archivista della parrocchia, collaboratore al riordino dell'archivio comunale e patriziale di Salorino."
   avatar: "/assets/images/bio/DelBosco.jpg"
     
+cp:
+  name: "Consiglio Parrocchiale di Salorino"
+  avatar: "/assets/images/bio/ConsiglioParrocchiale.jpg"    
 
 meg:
   name: "Maria Elena G."
