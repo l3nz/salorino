@@ -7,15 +7,15 @@ title: Contatti ed orari delle S. Messe
 ## S. Messe festive
 
 * Sabato e vigilia di festa:	ore 17.30 Parrocchia San Zenone
-* Domenica e festa:		ore 10.00 Parrocchia San Zenone
+* Domenica e festa:		ore 8:30, ore 10.00 Parrocchia San Zenone
 
 
 ## S. Messe in settimana
 
 * Lunedì	ore   8.30	Parrocchia San Zenone
-* Martedì	ore   9.00	Oratorio San Giuseppe a Somazzo
+* Martedì	ore   8.30	Parrocchia San Zenone
 * Mercoledì	ore   8.30	Parrocchia San Zenone  
-* Giovedì	ore   9.00	Oratorio San Rocco 
+* Giovedì	ore   8.30	Parrocchia San Zenone
 * Venerdì	ore   8.30	Parrocchia San Zenone  
 
 
