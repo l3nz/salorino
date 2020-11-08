@@ -3,7 +3,7 @@ layout: single
 title:  "Giorni di Natale"
 date:   2020-11-08 10:18:38 +0200
 categories: bollettino 2011
-tags: Avvento
+tags: Avvento Feste
 ---
 
 ## Maria e Giuseppe in cammino

@@ -3,7 +3,7 @@ layout: single
 title:  "Preghiera da recitare in Quaresima"
 date:   2020-02-23 10:05:27 +0200
 categories: bollettino 2003
-tags: Lettere
+tags: Preghiera
 ---
 
 

@@ -6,7 +6,8 @@ categories: bollettino 2011
 tags: PapaFrancesco
 ---
 
-*SULLA CHIAMATA ALLA SANTITÀ NEL MONDO CONTEMPORANEO*
+## SULLA CHIAMATA ALLA SANTITÀ NEL MONDO CONTEMPORANEO
+
  
 Mi piace vedere la santità nel popolo di Dio paziente: nei genitori che crescono con tanto amore i loro figli, negli uomini e nelle donne che lavorano per portare il pane a casa, nei malati, nelle religiose anziane che continuano a sorridere. In questa costanza per andare avanti giorno dopo giorno vedo la santità della Chiesa militante. Questa è tante volte la santità “della porta accanto”, di quelli che vivono vicino a noi e sono un riflesso della presenza di Dio, o, per usare un’altra espressione, “la classe media della santità”.
 

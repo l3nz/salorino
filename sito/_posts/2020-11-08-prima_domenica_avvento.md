@@ -3,7 +3,7 @@ layout: single
 title:  "29 NOVEMBRE : PRIMA DOMENICA DI AVVENTO"
 date:   2020-11-08 10:30:10 +0200
 categories: bollettino 2011
-tags: Avvento
+tags: Avvento Feste
 ---
 
 E’ di nuovo avvento nell’anno della tua Chiesa, mio Dio. 

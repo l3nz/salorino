@@ -3,7 +3,7 @@ layout: single
 title:  "DUE NOVEMBRE"
 date:   2020-11-08 10:35:44 +0200
 categories: bollettino 2011
-tags: CommemorazioneDefunti
+tags: CommemorazioneDefunti Feste
 ---
 
 
