@@ -148,6 +148,19 @@ Le pagine del bollettino vanno create come:
 Partendo dall'ultima alla prima. Appaiono nel bollettino corrente (vedi `mkPaginaBollettino`) 
 e vanno fatte dall'ultima alla prima.
 
+## Pozzi
+
+
+
+{% capture notice-text %}
+
+Ill.mo Rev.mo Mons. Vescovo Carlo Ciceri ...
+
+{% endcapture %}
+<div class="notice--primary">
+  {{ notice-text | markdownify }}
+</div>
+
 
 
 ## Immagini

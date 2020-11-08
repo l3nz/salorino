@@ -1,6 +1,6 @@
 #! /bin/bash
 
-BOLLETTINO=2006
+BOLLETTINO=2011
 DATACORTA=$(date +%Y-%m-%d)
 DATA=$(date "+%Y-%m-%d %H:%M:%S +0200")
 TITOLO=$1
@@ -21,6 +21,14 @@ tags: TODO
 
 Bla bla bla
 
+{% raw %}<img class="full"
+     src="/assets/images/bollettino${BOLLETTINO}/_.jpg"
+     alt="">
+{% endraw %}
+
+
+
 EOF
 
+subl $FILE
 
