@@ -3,7 +3,7 @@ layout: single
 title:  "Si ricomincia col cuore colmo di gratitudine"
 date:   2020-11-08 09:31:34 +0200
 categories: bollettino 2011
-tags: GruppoGenitori
+tags: GruppoFamiglie
 ---
 
 È una grande gioia poter ripartire con le attività parrocchiali dopo i mesi di distanziamento sociale e l’estate in cui ognuno ha le sue mete. È bello potersi ritrovare e organizzare quegli incontri che ci vedranno camminare insieme e trascorrere ore d’amicizia cristiana.

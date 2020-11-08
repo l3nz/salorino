@@ -3,7 +3,7 @@ layout: single
 title:  "Maria sulla strada dell'Avvento"
 date:   2020-11-08 10:24:22 +0200
 categories: bollettino 2011
-tags: ImmacolataConcezione
+tags: Feste ImmacolataConcezione
 ---
 
 8 dicembre - Immacolata Concezione della Beata Vergine Maria
