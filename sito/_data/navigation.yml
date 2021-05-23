@@ -29,6 +29,8 @@ info:
       url: /info/contatti-ed-orari/
     - title: "Il Parroco"
       url: /info/parroco/ 
+    - title: "Regolamento"
+      url: /info/regolamento/   
   - title: "Gruppi"
     children:
       - title: "Consiglio parrocchiale"
