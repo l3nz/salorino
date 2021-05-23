@@ -199,7 +199,13 @@ Se voglio convertire tutta una cartella, posso farlo. Vado nella cartella e facc
 Poi lo copi sotto /images/2019/.....
 
 Per realizzare una gallery, una volta si abbiano le foto nella cartella, è sufficioente copiare un file Gallery (es "corpus-domini")
-e far gireare lo script mkGallery che stampa il codice su stdout.
+e far girare lo script mkGallery che stampa il codice su stdout.
+
+
+### OCR
+
+Per i documenti da scannerizzare via OCR uso: https://www.newocr.com/
+
 
 
 
