@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "L'oratorio di San Giouseppe a Somazzo - nuovi documenti"
+title:  "L'oratorio di San Giuseppe a Somazzo - nuovi documenti"
 date:   2020-06-23 21:44:10 +0200
 categories: bollettino 2006
 tags: Storia SanGiuseppe
