@@ -1,5 +1,6 @@
 ---
 title: Regolamento della Parrocchia di Salorino
+excerpt_separator: <!--more-->
 ---
 
 {% capture notice-text %}

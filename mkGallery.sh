@@ -1,8 +1,8 @@
 #! /bin/bash
 
-DATA=2020-04-30
-TITOLO=entrata-don-maksym
-GALLERY="2017/don-maksym"
+DATA=2021-06-14
+TITOLO=cresime-comunioni-21
+GALLERY="2021/cresime-comunioni-21"
 BASE=$(pwd)
 
 POST=${BASE}/sito/_posts/${DATA}-${TITOLO}.md

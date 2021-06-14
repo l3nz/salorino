@@ -6,17 +6,17 @@ title: Contatti ed orari delle S. Messe
 
 ## S. Messe festive
 
-* Sabato e vigilia di festa:	ore 17.30 Parrocchia San Zenone
-* Domenica e festa:		ore 8:30, ore 10.00 Parrocchia San Zenone
+* *Sabato e vigilia di festa*:	ore 17.30 - Chiesa San Zenone
+* *Domenica e festa*:		ore 10.00 - Chiesa San Zenone
 
 
 ## S. Messe in settimana
 
-* Lunedì	ore   8.30	Parrocchia San Zenone
-* Martedì	ore   8.30	Parrocchia San Zenone
-* Mercoledì	ore   8.30	Parrocchia San Zenone  
-* Giovedì	ore   8.30	Parrocchia San Zenone
-* Venerdì	ore   8.30	Parrocchia San Zenone  
+* Lunedì	ore   8.30	- Chiesa San Zenone
+* Martedì	ore   9.00	- Oratorio San Giuseppe
+* Mercoledì	ore   8.30	- Parrocchia San Zenone  
+* Giovedì	ore   9.00	- Oratorio San Rocco 
+* Venerdì	ore   8.30	- Parrocchia San Zenone  
 
 
 
