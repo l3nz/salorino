@@ -120,6 +120,7 @@ Le foto vanno estratte via copia/incolla sotto `assets/images/bollettino18`.
 
 - Bollettino
 - Ospiti
+- Varie
 
 
 ## Tags
