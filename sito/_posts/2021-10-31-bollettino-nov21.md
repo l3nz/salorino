@@ -3,7 +3,6 @@ layout: single
 title:  "Bollettino di Novembre 2021"
 date:   2021-10-31 18:15:42 +0200
 categories: bollettino 2111
-tags: TODO
 ---
 
 
