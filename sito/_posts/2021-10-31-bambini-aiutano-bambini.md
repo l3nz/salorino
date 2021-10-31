@@ -1,0 +1,23 @@
+---
+layout: single
+title:  I bambini aiutano i bambini
+date:   2021-10-31 17:28:04 +0200
+categories: bollettino 2111
+tags: GruppoFamiglie
+---
+
+
+
+A inizio anno scolastico ci siamo incontrate, alcune mamme con don Maksym, per riflettere sulle attività da proporre alle famiglie nei prossimi mesi. La bella festa in occasione della Madonna del Sasso, presso l’oratorio di san Giuseppe, ci ha rallegrati molto e ci ha mostrato quante belle famiglie risiedono nel nostro paesino e quanta gioia sperimentiamo nello stare insieme. Quindi sono maturati tre progetti volti a far incontrare i nostri bambini e i nostri ragazzi e farli collaborare nell’amicizia impegnandosi a favore di altri bambini; proprio come ci ricorda il motto di Infanzia Missionaria: “I bambini aiutano i bambini”. 
+
+Il primo progetto ci porta col cuore oltre l’oceano, dove la nostra compaesana suor Nadia Gianolli svolge la sua missione insieme alle consorelle delle Piccole Figlie del Sacro Cuore di Gesù in favore delle famiglie di Peralvillo in Perù. Ci ha inviato una lettera, che segue, in cui condivide la soddisfazione nell’aver potuto ampliare la loro scuola ed esprime la necessità di attrezzare la nuova aula di scienze per la formazione dei ragazzi delle medie. La loro opera di evangelizzazione e carità si estende su tutta la parrocchia e raggiunge anche le famiglie più povere, ultimamente ancora più provate a causa della pandemia. I nostri ragazzi stanno realizzando dei cartelloni con le foto inviateci da suor Nadia, che saranno esposti in chiesa per mostrare la realtà in cui vive. Durante una videochiamata potranno ascoltare direttamente la sua testimonianza. Prepareranno con cura i prodotti che le mamme hanno cucinato con i frutti della nostra terra. Dopo le messe del 23-24 ottobre, giornata missionaria, faranno una bancarella con marmellate, zucche e frutta secca. Vi invitiamo ad approfittare di queste squisitezze che rendono buono anche il cuore!
+
+Il secondo progetto vede coinvolti specialmente i più grandicelli che realizzeranno dei calendari da vendere in parrocchia ad inizio avvento. Il ricavato sarà devoluto a Missio Svizzera, aderendo all’iniziativa che propone la Chiesa in questo mese di ottobre missionario. Vi capiterà quindi di vedere i ragazzi in giro a gruppetti con la macchina fotografica, per catturare particolari bellezze del nostro paesaggio. Verranno scelte le foto più significative e stampate professionalmente su un calendario da parete con il nome del santo del giorno e lo spazio per scrivere appuntamenti e ricorrenze. Infine l’intestazione sarà decorata in modo creativo dai ragazzi stessi. Speriamo di cuore possa essere di vostro gradimento e possiate farne buona accoglienza. 
+Inoltre per prepararci ad accogliere nuovamente il grande annuncio del Natale di Cristo, sabato 27 novembre, entreremo nel clima di preghiera e poesia dell’avvento, vivendo una veglia di canti animata dal gruppo musicale famiglie. Vi rivolgiamo un caloroso invito!
+
+L’ultimo progetto vede come protagonisti i più piccoli che hanno già iniziato a trovarsi per familiarizzare col nuovo ambiente parrocchiale e immergersi col pensiero e la fantasia nel clima pastorizio. Tramite la storia della pecorella smarrita hanno intuito che Gesù ci ama e ci cerca. Li abbiamo quindi invitati e realizzare una lanterna, perché il 19 dicembre in serata, travestiti da pastori, angeli o re Magi, visiteremo insieme le corti di Somazzo per annunciare con canti natalizi la nascita di Gesù e portare la benedizione: gioia e pace. Scenderemo in chiesa parrocchiale dove concluderemo col presepe vivente. Siete sin d’ora invitati a partecipare laddove vi è più comodo. Quest’iniziativa si unisce ai Cantori della Stella di Infanzia Missionaria di tutta Europa. Anche in quest’occasione “i bambini aiutano i bambini”, poiché al loro passaggio raccolgono offerte in favore di bambini nel bisogno: proprio come i pastori e i re Magi portarono doni a Gesù, così loro porteranno doni a quei bambini tramite Missio Infanzia, poiché Gesù ci ha detto: “Quello che farete al più piccolo di questi, l’avete fatto a me!”.
+
+Presso il presepe, che allestiranno i cresimandi, culminerà il nostro impegno di questo 2021 a favore della crescita interiore dei nostri figli. Affidiamo alle vostre preghiere questi ragazzi, con i loro famigliari, affinché si preparino al sacramento della Confermazione con impegno gioioso.
+
+Cogliamo l’occasione per ringraziare don Maksym che in questi anni ci ha accompagnati e sostenuti, condividendo tanti bei progetti e donandoci momenti liturgici intensi. Gli auguriamo che il suo cammino al servizio del Vangelo sia fecondo e ricco di gioia, pace e Amore!
+
