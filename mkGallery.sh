@@ -1,8 +1,8 @@
 #! /bin/bash
 
-DATA=2021-07-20
-TITOLO=inaugurazione-saletta-21
-GALLERY="2021/inaugurazione-saletta"
+DATA=2021-12-10
+TITOLO=veglia-avvento-21
+GALLERY="2021/veglia-avvento"
 BASE=$(pwd)
 
 POST=${BASE}/sito/_posts/${DATA}-${TITOLO}.md
