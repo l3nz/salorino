@@ -12,11 +12,8 @@ title: Contatti ed orari delle S. Messe
 
 ## S. Messe in settimana
 
-* Lunedì	ore   8.30	- Chiesa San Zenone
-* Martedì	ore   9.00	- Oratorio San Giuseppe
-* Mercoledì	ore   8.30	- Parrocchia San Zenone  
-* Giovedì	ore   9.00	- Oratorio San Rocco 
-* Venerdì	ore   8.30	- Parrocchia San Zenone  
+* Giovedì	ore  17.30	- Parrocchia San Zenone 
+* Venerdì	ore   9.00	- Oratorio di San Giuseppe  
 
 
 

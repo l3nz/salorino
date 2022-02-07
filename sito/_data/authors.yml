@@ -10,16 +10,18 @@
 ae:
   name: "don Angelo Epistolio"
   bio: ""
+  uri: "/info/parroco/"
+  # Parroco dal 2022
 
 lc:
   name: "Livio Clerici"
   bio: "Presidente del Consiglio parrocchiale"  
 
 mp:
-  name: "don Maksym"
-  bio: "Parroco di Salorino."
+  name: "don Maksym Podhajski"
+  bio: "Parroco di Salorino 2017-2021"
   avatar: "/assets/images/bio/DonMaksym.png"
-  uri: "/info/parroco/"
+  
 
 ldb:
   name: "Luigi del Bosco"
