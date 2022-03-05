@@ -8,9 +8,10 @@
 
 
 ae:
-  name: "don Angelo Epistolio"
+  name: "don Angelo"
   bio: ""
   uri: "/info/parroco/"
+  avatar: "/assets/images/bio/don_angelo.jpg"
   # Parroco dal 2022
 
 lc:
@@ -33,7 +34,7 @@ cp:
   avatar: "/assets/images/bio/ConsiglioParrocchiale.jpg"    
 
 meg:
-  name: "Maria Elena G."
+  name: "Maria Elena"
   bio: ""
 
 eb:

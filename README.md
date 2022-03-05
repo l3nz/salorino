@@ -42,11 +42,12 @@ Posts by Tag
 
 ### Autori
 
+- ae - don Angelo
 - mp
 - ldb
 - meg
 - lc
-
+- cp - Consiglio Parrocchiale
 
 
 
@@ -61,6 +62,7 @@ https://mmistakes.github.io/minimal-mistakes/
 
 
 Plugins:
+
 - Tagging https://github.com/pattex/jekyll-tagging
 - Sitemap generator https://github.com/jekyll/jekyll-sitemap
 - Reading time https://github.com/bdesham/reading_time
@@ -69,6 +71,7 @@ Plugins:
  
 
 Vedi:
+
 - Lista di plugins https://github.com/planetjekyll/awesome-jekyll-plugins
 
 

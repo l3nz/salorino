@@ -12,14 +12,13 @@ title: Contatti ed orari delle S. Messe
 
 ## S. Messe in settimana
 
-* Giovedì	ore  17.30	- Parrocchia San Zenone 
-* Venerdì	ore   9.00	- Oratorio di San Giuseppe  
-
+* Giovedì ore 8.30  - Oratorio S. Rocco
+* Venerdì ore 9.00 - Oratorio S. Giuseppe
 
 
 ### Possibilità di celebrare il sacramento della Confessione o Riconciliazione
 
-Il parroco è sempre a disposizione prima o dopo l’Eucaristia feriale e al sabato dalle 17.00 innanzi.
+Il parroco è sempre a disposizione prima o dopo l’Eucaristia feriale e al sabato pomeriggio.
 
 
 {% include indirizzo.md %}
