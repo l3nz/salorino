@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "L’ORATORIO DI SAN GIUSEPPE"
+title:  "Statuto dell'Oratorio di S Giuseppe"
 date:   2022-09-04 11:11:50 +0200
 categories: bollettino 2206
-tags: SanGiuseppe
+tags: Storia SanGiuseppe
 ---
 
 Dopo mesi di intenso lavoro in stretto contatto con la Curia, lo statuto dell’associazione dei Terrieri di Somazzo è stato approvato. Di seguito potete prenderne visione.
