@@ -12,7 +12,7 @@ title: Contatti ed orari delle S. Messe
 
 ## S. Messe in settimana
 
-* Giovedì ore 8.30  - Oratorio S. Rocco
+* Giovedì ore 9.00  - Oratorio S. Rocco
 * Venerdì ore 9.00 - Oratorio S. Giuseppe
 
 
