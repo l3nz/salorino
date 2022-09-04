@@ -3,7 +3,7 @@ layout: single
 title:  "UN SANTO: SAN GIUSEPPE - Giuseppe dalle labbra chiuse"
 date:   2022-03-05 18:23:48 +0200
 categories: bollettino 2203
-tags: SanGiuseppe
+tags: SanGiuseppe Santi
 ---
 
 Giuseppe, l’uomo dalle labbra chiuse, l’uomo dell’interiore!

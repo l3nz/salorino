@@ -3,7 +3,7 @@ layout: single
 title:  "25 Settembre: San Nicolao della Flüe, patrono della Svizzera"
 date:   2020-06-23 21:43:55 +0200
 categories: bollettino 2006
-tags: Feste
+tags: Feste Santi
 ---
 
 Nacque a Flüeli, parrocchia di Sachseln, il 21 marzo del 1417 e morì al Ranft il 21 marzo del 1487. Sposò Dorotea Wiss, di Schwendi, dalla quale ebbe dieci figli. 

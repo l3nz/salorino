@@ -3,14 +3,14 @@ layout: single
 title:  "10 Agosto: San Lorenzo, martire del III secolo, patrono della nostra cattedrale"
 date:   2020-06-23 21:43:15 +0200
 categories: bollettino 2006
-tags: Feste
+tags: Feste Santi
 ---
 
 
 Nella città di Roma aveva il compito di distribuire ai poveri le collette dei cristiani. Era la missione propria dei diaconi, dei quali Lorenzo, creato arcidiacono da Papa Sisto II, era il responsabile. E’ comprensibile quindi che nell’incalzare della persecuzione di Valeriano, lo stesso Papa, arrestato e condotto al martirio, abbia dato incarico a Lorenzo di distribuire quanto aveva ai poveri. 
 
 {% raw %}<img class="full"
-     src="/assets/images/bollettino2006/san_lorenzo.jpg" 
+     src="/assets/images/bollettino2006/s_lorenzo.jpg" 
      alt="san lorenzo">
 {% endraw %}
 

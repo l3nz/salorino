@@ -3,7 +3,7 @@ layout: single
 title:  Preghiera del Vescovo Valerio alla Madonna
 date:   2021-10-31 17:29:41 +0200
 categories: bollettino 2111
-tags: Preghiere
+tags: Preghiera
 ---
 
 

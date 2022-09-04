@@ -3,7 +3,7 @@ layout: single
 title:  "4 Agosto: GIOVANNI MARIA VIANNEY, IL SANTO CURATO D’ARS "
 date:   2020-06-23 21:42:48 +0200
 categories: bollettino 2006
-tags: Feste
+tags: Feste Santi
 ---
 
 Nacque a Dardilly vicino a Lione l’8 maggio 1786 in una famiglia contadina e crebbe sotto la rivoluzione francese. Voleva diventare prete e realizzò la sua vocazione, dopo molti sacrifici e umiliazioni, a 32 anni. 

@@ -1,6 +1,6 @@
 #! /bin/bash
 
-BOLLETTINO=2203
+BOLLETTINO=2206
 DATACORTA=$(date +%Y-%m-%d)
 DATA=$(date "+%Y-%m-%d %H:%M:%S +0200")
 TITOLO=$1

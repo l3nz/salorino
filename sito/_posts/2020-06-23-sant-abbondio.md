@@ -3,7 +3,7 @@ layout: single
 title:  "31 agosto - SANT’ABBONDIO, PATRONO CON SAN CARLO DELLA DIOCESI"
 date:   2020-06-23 21:43:39 +0200
 categories: bollettino 2006
-tags: Feste
+tags: Feste Santi
 ---
 
 Visse nel quinto secolo e la sua patria d’origine rimane ignota. Giunto a Como collaborò con generosità con il vescovo Amanzio, del quale venne designato successore e consacrato vescovo il 17 novembre 449. Quale vescovo ricevette subito il compito da San Leone Magno di recarsi con altri delegati papali in Oriente, per esaminare la fede del vescovo Anatolio. La missione ebbe successo e tornato a Roma, nel 451, gli venne affidata una lettera per Eusebio di Milano, perché fosse convocato un sinodo provinciale dell’Insubria.
