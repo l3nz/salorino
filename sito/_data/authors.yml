@@ -39,7 +39,7 @@ meg:
 
 eb:
   name: "Ettore Brenni"
-  bio: ""
+  bio: "Organista e direttore del Coro"
 
 gg:
   name: "Gabriele Gianolli"
@@ -48,4 +48,9 @@ gg:
 sp:
   name: "Selina P."
   bio: ""
+
+rtb:
+  name: "Raffaella Tonella Brenni"
+  bio: ""
+
 

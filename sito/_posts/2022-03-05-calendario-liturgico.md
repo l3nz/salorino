@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "CALENDARIO LITURGICO PASTORALE - Primavera 2021"
+title:  "CALENDARIO LITURGICO PASTORALE - Primavera 2022"
 date:   2022-03-05 18:24:37 +0200
 categories: bollettino 2203
 tags: Appuntamenti

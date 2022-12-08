@@ -3,7 +3,7 @@ layout: single
 title:  "NELLA VITA DELLA NOSTRA COMUNITÀ DURANTE IL 2020"
 date:   2021-03-04 18:31:34 +0200
 categories: bollettino 2103
-tags: Comunità Battesimo AnniversariMatrimonio
+tags: Comunità Battesimi AnniversariMatrimonio
 ---
 
 
