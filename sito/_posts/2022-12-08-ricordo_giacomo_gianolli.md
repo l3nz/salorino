@@ -8,6 +8,13 @@ tags: Comunità
 
 “Ul Giacum”
 
+
+{% raw %}<img class="full"
+ src="/assets/images/bollettino2211/giacomo.jpg" 
+ alt="Giacomo Lazzaro Gianolli">
+{% endraw %}
+
+
 Giacomo nacque a Somazzo nel 1926, i genitori Vincenzo e Maria Gianolli erano contadini di montagna. Ha trascorso tutta la sua vita tra gli alpeggi del Generoso, sui pendii sopra Somazzo verso Cragno, e la casa di Somazzo, divenuta negli anni la sua stabile dimora, dove Giacomo ha potuto vivere fino a pochi giorni prima del decesso.
 
 Durante la sua lunga vita Giacomo è stato molto attivo nella comunià salorinese, partecipando alle attività della Parrocchia, della Confraternita (che ha contribuito a rifondare) e anche del Comune di Salorino. È infatti stato membro del Consiglio Parrocchiale e dell’Amministrazione della Confraternita per lunghi anni e in due distinte legislature è pure stato membro del Municipio di Salorino ed in seguito, per altre svariate legislature, del locale Consiglio Comunale. Il suo attaccamento alla terra e al suo lavoro di contadino hanno spinto Giacomo a collaborare anche in svariate organizzazioni agricole.
@@ -19,10 +26,12 @@ Giacomo con chi incontrava in questi ultimi anni durante le sue passeggiate lung
 
 Grazie Giacomo. Riposa in pace.
 
-Gabriele Gianolli
+__Gabriele Gianolli__
 
+--
 
 Caro Giacomo,
+
 hai terminato il tuo cammino terreno e ora hai modo di ritrovarti con la tua amata Dina.
 
 Ti ricorderemo nei nostri pensieri, con i tuoi modi gentili, la tua cordialità straordinaria, il sorriso sulle labbra, i tuoi vivi ricordi nel raccontare con grande entusiasmo episodi di vita e avvenimenti che sono accaduti nella nostra comunità.
@@ -32,9 +41,10 @@ A noi tutti mancherai.
 
 Grazie di cuore
 
-Livio Clerici
+__Livio Clerici__
 
 
+--
 
 Giacomo era il patriarca della nostra comunità. La sua fede e la sua preghiera trasparivano dal suo temperamento mite e umile. Gli piaceva indagare, per meglio comprendere, gli aspetti della fede e della vita della chiesa. Aveva molti anni, ne era consapevole, perché il suo corpo, a differenza della mente, ne risentiva. Lucidissimo fino all’ultimo, si era preparato all’incontro con il suo Signore, consapevole che la morte non era la fine della vita, ma per altra strada, ne era la continuazione.
 
@@ -42,5 +52,5 @@ L’età lo aveva reso un po’ sordo. Ma ascoltava con gli occhi, il suo sguard
 
 Prega per noi.
 
-Don Angelo
+__Don Angelo__
 
