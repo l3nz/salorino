@@ -33,9 +33,10 @@ tags: Appuntamenti
 
 # Febbraio
 
-- 2    giovedì: Candelora. Presentazione di Gesù al Tempio. Giornata della vita consacrata.      Ore 20.00 Eucaristia
-- 3    venerdì: primo venerdì del mese che coincide con la memoria liturgica di San Biagio.     Ore 20.00 Eucaristia e benedizione della gola
+- 2    giovedì: Candelora. Presentazione di Gesù al Tempio. Giornata della vita consacrata.      Ore 19.30 Eucaristia
+- 3    venerdì: primo venerdì del mese che coincide con la memoria liturgica di San Biagio.     Ore 19.30 Eucaristia e benedizione della gola
 - 11   sabato: memoria liturgica della Beata Vergine Maria di Lourdes        - Ore 17.30 santa Messa con Unzione dei Malati
-- 22   mercoledì: Mercoledì delle Ceneri, giorno di magro e digiuno -     Ore 20.00 Eucaristia e Imposizione delle ceneri all’inizio del cammino quaresimale
+- 22   mercoledì: Mercoledì delle Ceneri, giorno di magro e digiuno -     Ore 19.30 Eucaristia e Imposizione delle ceneri all’inizio del cammino quaresimale
 - 26   domenica: prima domenica di Quaresima
 
+**(Gli orari per il 2, 3 e 26 febbraio sono stati aggiornati)**
