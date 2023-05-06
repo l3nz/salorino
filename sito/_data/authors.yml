@@ -33,6 +33,11 @@ cp:
   name: "Consiglio Parrocchiale di Salorino"
   avatar: "/assets/images/bio/ConsiglioParrocchiale.jpg"    
 
+cf:
+  name: "Claudia Fomasi"
+  bio: ""
+
+
 meg:
   name: "Maria Elena"
   bio: ""

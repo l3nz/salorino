@@ -4,6 +4,8 @@ main:
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Informazioni"
     url: /info/contatti-ed-orari/
+  - title: "WhatsApp"
+    url: /info/contatti-ed-orari/#restiamo-in-contatto  
   - title: "Links"
     url: /Links/
   - title: "Gallerie"
