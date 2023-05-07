@@ -26,11 +26,13 @@ Il parroco è sempre a disposizione prima o dopo l’Eucaristia feriale e al sab
 ## Restiamo in contatto
 
 Per rimanere informati sulle novità e le manifestazioni nella nostra parrocchia, potete iscrivervi 
-alla nostra lista WhatsApp inquadrando con il vostro smartphone l'immagine qui sotto o cliccandci sopra:
+alla nostro gruppo WhatsApp inquadrando con il vostro smartphone l'immagine qui sotto 
+o cliccandoci sopra:
 
 <a href="https://chat.whatsapp.com/JqZW2ExD6aS6vmUpJ6xoNd">
 <img src="/assets/images/base/qr_whatsapp_informazioni.png">
 </a>
 
-La lista è solo in ricezione ed è a basso traffico.
+Il gruppo è solo in ricezione ed è a basso traffico. A presto!
+
 
