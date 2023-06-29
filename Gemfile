@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll-html-pipeline"
+
+gem "rexml"
 gem "kramdown-parser-gfm"
 gem "faraday", "2.7.5"
 gem  "minitest", "5.18.0"
