@@ -11,7 +11,7 @@ cd sito
 BUNDLE="$( which bundle )"
 
 
-$BUNDLE install --path ~/_vendor/bundle && \
+$BUNDLE install --path ./_vendor/bundle && \
  $BUNDLE exec jekyll build --config "_config.yml" -d "_UPLOAD_ME"
 
 
