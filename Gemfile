@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+gem "faraday", "2.7.5"
+gem  "minitest", "5.18.0"
+gem "racc", "1.6.2"
 gem "pkg-config"
 gem "json"
 gem "jekyll"
