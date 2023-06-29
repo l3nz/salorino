@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "kramdown-parser-gfm"
 gem "faraday", "2.7.5"
 gem  "minitest", "5.18.0"
 gem "racc", "1.6.2"
