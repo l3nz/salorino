@@ -2,6 +2,14 @@
 
 Il sito per la parrocchia di Salorino.
 
+## COMPILAZIONE FALLITA
+
+Compilo in locale con `.prod.sh` e poi:
+
+scp -r ./sito/_UPLOAD_ME/* jenkins.loway.ch:/var/lib/jenkins/home/workspace/web_parrocchia.salorino.ch/sito/_UPLOAD_ME/
+
+
+E poi rsync
 
 
 ## Suddivisioni
