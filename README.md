@@ -6,7 +6,20 @@ Il sito per la parrocchia di Salorino.
 
 Compilo in locale con `.prod.sh` e poi:
 
-scp -r ./sito/_UPLOAD_ME/* jenkins.loway.ch:/var/lib/jenkins/home/workspace/web_parrocchia.salorino.ch/sito/_UPLOAD_ME/
+- lancio il task su jenkins
+- Copio velocemente con:
+
+    cd ./sito/_UPLOAD_ME/ && tar cf - . | ssh jenkins.loway.ch "cd /var/lib/jenkins/home/workspace/web_parrocchia.salorino.ch/sito/_UPLOAD_ME/ && tar xpvf -"
+
+Poi da jenkins
+
+    cd /var/lib/jenkins/home/workspace/web_parrocchia.salorino.ch
+    JOB_NAME=rsync_web_parrocchia.salorino.ch /opt/loway/scripts/rsync_single
+
+
+Oppure
+
+    scp -r ./sito/_UPLOAD_ME/* jenkins.loway.ch:/var/lib/jenkins/home/workspace/web_parrocchia.salorino.ch/sito/_UPLOAD_ME/
 
 
 E poi rsync

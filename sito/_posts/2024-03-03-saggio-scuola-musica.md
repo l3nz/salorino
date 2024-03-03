@@ -1,18 +1,26 @@
 ---
 layout: single
-title:  "Saggio della Scuola di Musica del Conservatorio di Mendrisio"
+title:  "Saggio di archi e coro della Scuola di Musica del Conservatorio di Mendrisio"
 date:   2024-03-03 12:32:49 +0200
 categories: bollettino 2403
 tags: Musica Appuntamenti
 ---
 
-### Saggio di archi e coro
 
-Domenica 24 marzo 2024 - Ore 16.00 - Chiesa San Zenone, Salorino
+{% raw %}<img class="full"
+     src="/assets/images/bollettino2403/volantino_concerto.jpg"
+     alt="">
+{% endraw %}
 
-Per la raccolta fondi a sostegno dell’[Associazione LìeLà](https://www.associazione-liela.ch/).
 
-Ingresso gratuito
+
+
+Il concerto si terrà Domenica 24 marzo 2024, alle ore 16.00, presso la chiesa di San Zenone a Salorino,
+per la raccolta fondi a sostegno dell’[Associazione LìeLà](https://www.associazione-liela.ch/).
+
+L'ingresso è gratuito.
+
+---
 
 _Allievi delle classi di viola e violino della M° Lavinia Quatrini_
 
