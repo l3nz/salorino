@@ -3,7 +3,7 @@ layout: single
 title:  "L'Angolo del Don: Pietre Vive"
 date:   2024-03-03 12:33:51 +0200
 categories: bollettino 2403
-tags: Lettere
+tags: AngoloDelDon
 author: ae
 ---
 
