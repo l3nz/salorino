@@ -6,7 +6,7 @@ categories: bollettino 2407
 tags: Comunità Musica
 ---
 
-Lo scorso 24 marzo, nel pomeriggio, alcuni allievi della scuola di musica del conservatorio hanno dato vita ad un evento musicale all’interno della nostra chiesa di San Zenone. 
+Lo scorso 24 marzo, nel pomeriggio, alcuni <a href="/bollettino/2403/saggio-scuola-musica/">allievi della scuola di musica del Conservatorio</a> hanno dato vita ad un evento musicale all’interno della nostra chiesa di San Zenone. 
 
 Si sono esibiti violinisti, violisti e un quartetto, seguiti dalle classi dei “Cori delle piccole voci 2 di Lugano e Mendrisio” con musiche che hanno spaziato dai compositori classici a quelli moderni. Il concerto è stato ideato dalle maestre Lavinia Quatrini (classe di viola e violino)
 e Sara Uboldi (canto corale) con la collaborazione di alcuni parrocchiani a favore dell’Associazione Lì & Là.
@@ -36,4 +36,4 @@ Per coloro che volessero ancora contribuire all’associazione oppure sempliceme
 fossero interessati o incuriositi vi segnaliamo il sito dell’associazione: <a href="https://www.associazione-liela.ch/" target="_new">
 https://www.associazione-liela.ch/</a>.
 
-
+Alcune fotografie dell'evento sono <a href="/foto/gallery-liela/">disponibili qui</a>.

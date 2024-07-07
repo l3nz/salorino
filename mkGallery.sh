@@ -1,8 +1,8 @@
 #! /bin/bash
 
 DATA=2023-09-10
-TITOLO=gallery-fine-estate
-GALLERY="2023/fine_estate_23"
+TITOLO=gallery-liela
+GALLERY="2024/liela"
 BASE=$(pwd)
 
 POST=${BASE}/sito/_posts/${DATA}-${TITOLO}.md
@@ -20,7 +20,7 @@ layout: single
 title:  \"${TITOLO}\"
 date:   ${DATA} 16:56:47 +0200
 categories: Foto
-tags: Comunità Confraternita
+tags: Comunità Musica
 gallery: 
 " >${POST}
 
