@@ -3,7 +3,7 @@ layout: single
 title:  "Un Santo: il beato Carlo Acutis"
 date:   2024-10-29 20:42:50 +0200
 categories: bollettino 2411
-tags: TODO
+tags: Santi
 author: meg
 ---
 

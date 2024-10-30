@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Insegnaci a pregare"
+title:  "Insegnaci a pregare: il silenzio"
 date:   2024-10-29 20:46:55 +0200
 categories: bollettino 2411
-tags: TODO
+tags: Preghiera
 author: ae
 ---
 

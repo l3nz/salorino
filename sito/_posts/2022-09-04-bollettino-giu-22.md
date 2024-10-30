@@ -3,6 +3,7 @@ layout: single
 title:  "Il Bollettino - Giugno 2022"
 date:   2022-09-04 11:49:00 +0200
 categories: bollettino 2206
+tags: Insieme
 ---
 
 

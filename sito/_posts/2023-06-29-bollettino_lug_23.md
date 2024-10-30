@@ -3,6 +3,7 @@ layout: single
 title:  "Bollettino Parrocchiale - Luglio 2023"
 date:   2023-06-29 17:20:54 +0200
 categories: bollettino 2307
+tags: Insieme
 ---
 
 Benvenuti!

@@ -3,6 +3,7 @@ layout: single
 title:  "Il Bollettino - Novembre 2022"
 date:   2022-12-08 16:42:00 +0200
 categories: bollettino 2211
+tags: Insieme
 ---
 
 

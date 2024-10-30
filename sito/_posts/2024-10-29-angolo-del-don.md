@@ -3,7 +3,7 @@ layout: single
 title:  "L'angolo del Don"
 date:   2024-10-29 20:50:20 +0200
 categories: bollettino 2411
-tags: TODO
+tags: AngoloDelDon
 author: ae
 ---
 

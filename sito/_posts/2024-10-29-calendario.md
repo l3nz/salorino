@@ -3,7 +3,7 @@ layout: single
 title:  "Calendario Liturgico Novembre 2024 - Febbraio 2025"
 date:   2024-10-29 20:50:00 +0200
 categories: bollettino 2411
-tags: TODO
+tags: Appuntamenti
 ---
 
 

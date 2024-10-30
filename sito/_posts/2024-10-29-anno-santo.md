@@ -3,7 +3,7 @@ layout: single
 title:  "L'anno Santo"
 date:   2024-10-29 20:47:58 +0200
 categories: bollettino 2411
-tags: TODO
+tags: ChiesaCattolica
 author: ae
 ---
 

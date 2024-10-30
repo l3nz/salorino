@@ -3,8 +3,8 @@ layout: single
 title:  "Ansia e depressione nei giovani: un allarme da non ignorare."
 date:   2024-10-29 20:45:41 +0200
 categories: bollettino 2411
-tags: TODO
-author: rbt
+tags: Varie
+author: rtb
 ---
 
  Negli ultimi anni, la nostra società ha visto un aumento preoccupante di casi di ansia e depressione tra i giovani. Questi disturbi, che un tempo sembravano rari in età adolescenziale, stanno diventando sempre più comuni, manifestandosi anche in ragazzi molto giovani.

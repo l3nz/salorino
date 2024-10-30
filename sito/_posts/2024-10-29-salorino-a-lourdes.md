@@ -3,10 +3,17 @@ layout: single
 title:  "Salorino a Lourdes"
 date:   2024-10-29 20:41:43 +0200
 categories: bollettino 2411
-tags: TODO
+tags: Varie
+author: eb
 ---
 
 Anche quest’anno un gruppetto di parrocchiani di Salorino, volontari e pellegrini, ha partecipato al pellegrinaggio diocesano con gli ammalati a Lourdes. Il tema proposto dal santuario in questo 2024 é l’invito che Maria ha rivolto a Bernadette  in occasione della XIII apparizione “Venite qui in processione”, un incentivo a camminare in questa vita con fiducia, sempre vicino ai fratelli e alle sorelle, allo stesso ritmo, senza lasciare indietro nessuno. 
+
+{% raw %}<img class="full"
+     src="/assets/images/bollettino2411/lourdes.jpg"
+     alt="">
+{% endraw %}
+
 
 Un’esperienza, quella del pellegrinaggio a Lourdes segnata quotidianamente dalle diverse
 e suggestive celebrazioni ma rivolta, specialmente per i brancardiers e le infermiere, all’assistenza e alla vicinanza agli ammalati che si sobbarcano un lungo e non sempre agevole viaggio, per cercare o alimentare la propria fede e la propria speranza per affrontare di giorno in giorno la sofferenza.

@@ -4,7 +4,7 @@ title:  "Bollettino n. 9 - Luglio 2019"
 date:   2019-06-16 06:56:47 +0200
 categories: bollettino 1907
 author: mp
-tags: Lettere
+tags: Lettere Insieme
 ---
 
 Cari fratelli e sorelle,

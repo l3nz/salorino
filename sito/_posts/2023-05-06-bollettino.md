@@ -3,6 +3,7 @@ layout: single
 title:  "Bollettino parrocchiale Marzo 2023"
 date:   2023-05-06 12:59:34 +0200
 categories: bollettino 2302
+tags: Insieme
 ---
 
 

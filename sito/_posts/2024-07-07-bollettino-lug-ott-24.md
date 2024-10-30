@@ -3,6 +3,7 @@ layout: single
 title:  "Insieme: il bollettino parrocchiale Luglio-Ottobre 2024"
 date:   2024-07-07 10:06:38 +0200
 categories: bollettino 2407
+tags: Insieme
 ---
 
 

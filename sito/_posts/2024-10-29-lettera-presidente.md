@@ -3,7 +3,7 @@ layout: single
 title:  "Lettera del presidente del Consiglio Parrocchiale"
 date:   2024-10-29 20:51:17 +0200
 categories: bollettino 2411
-tags: TODO
+tags: Lettere
 author: lc
 ---
 

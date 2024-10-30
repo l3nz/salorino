@@ -16,6 +16,7 @@ layout: single
 title:  "Insieme: il bollettino parrocchiale ..-.. 2024"
 date:   ${DATA}
 categories: bollettino ${BOLLETTINO}
+tags: Insieme
 ---
 
 
