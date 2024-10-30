@@ -2,6 +2,43 @@
 
 Il sito per la parrocchia di Salorino.
 
+## Howto
+
+Ciascun bollettino ha una categoria propria, es `1811` per Novembre 2018, che va messa in `mkPaginaBollettino` e `mkIndice`.
+
+Gli articoli vanno messi sotto `sito/_posts/`.
+
+Le foto vanno estratte via copia/incolla sotto `assets/images/bollettino18`.
+
+
+- creo tutte le pagine con `mkPaginaBollettino (nome)`, in ordine inverso
+- creo l'indice con `mkIndice`
+
+
+
+
+### Gallerie
+
+
+
+
+### Tags
+
+- l'indice del bollettino è 'Insieme'
+- Calendario: Appuntamenti
+- Presidente del CP: lettere
+- AngoloDelDon
+- Un Santo... : Santi
+- News varie: Comunità Feste
+- Musica
+
+
+
+
+
+
+
+
 ## COMPILAZIONE FALLITA
 
 Compilo in locale con `.prod.sh` e poi:
@@ -96,10 +133,6 @@ Vedi:
 - Lista di plugins https://github.com/planetjekyll/awesome-jekyll-plugins
 
 
-### Hosting
-
-Da decidere il nome a dominio.
-
 
 ## Generazione
 
@@ -117,11 +150,6 @@ http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html
 
 ## Aggiunta di articoli
 
-Ciascun bollettino ha una categoria propria, es `1811` per Novembre 2018.
-
-Gli articoli vanno messi sotto `sito/_posts/`.
-
-Le foto vanno estratte via copia/incolla sotto `assets/images/bollettino18`.
 
 
 
@@ -233,6 +261,10 @@ e far girare lo script mkGallery che stampa il codice su stdout.
 ### OCR
 
 Per i documenti da scannerizzare via OCR uso: https://www.newocr.com/
+
+### Modifiche al tema
+
+Qualunque cosa io metta in `_layout` o `_includes` fa l'override di quello che c'è nel tema stesso.
 
 
 
