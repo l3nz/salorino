@@ -1,8 +1,8 @@
 #! /bin/bash
 
-DATA=2023-09-10
-TITOLO=gallery-liela
-GALLERY="2024/liela"
+DATA=2024-12-01
+TITOLO=gallery-veglia-avvento
+GALLERY="2024/veglia-avvento"
 BASE=$(pwd)
 
 POST=${BASE}/sito/_posts/${DATA}-${TITOLO}.md
@@ -18,9 +18,9 @@ echo "\
 ---
 layout: single
 title:  \"${TITOLO}\"
-date:   ${DATA} 16:56:47 +0200
+date:   ${DATA} 18:40:47 +0200
 categories: Foto
-tags: Comunità Musica
+tags: Comunità GruppoFamiglie
 gallery: 
 " >${POST}
 
