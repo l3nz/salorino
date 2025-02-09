@@ -1,6 +1,8 @@
 ---
 title: La confraternita del SS Sacramento
+excerpt_separator: <!--more-->
 ---
+
 
 Confraternita attualmente tra le più attive del Mendrisiotto, quella del **Santissimo Sacramento** è pure la prima compagnia devota eretta a Salorino. Essa ha avuto un ruolo primario nella storia di questo villaggio. Nata nel 1598, poi rieretta nel 1613 da monsignor Archinti, questa compagnia devota fu rifondata nel 1671 dal Torriani. Già nel 1645 contava una numerosa ufficialità, composta da un priore, un sotto priore, quattro consiglieri, dei portatori del baldacchino, un 'confaloniero', due infermieri, due 'conservatori della strada' (regolatori), ed un puntatore. Segno dell'esistenza di un'attività ben definita e di un forte senso di appartenenza, come attesta anche l'ordine, assai precoce, di multare i confratelli inadempienti agli obblighi della confraternita, spiccato già nel 1649. Questa attività ricevette forte sostegno della popolazione, anche sul fronte finanziario: negli anni 1650 esempio Margherita Centovagli lasciò  un capitale di 110 scudi per pagare la cena usata per le processioni della terza domenica, per le Quarantore e per far celebrare un certo numero di messe in San Rocco.
 
@@ -24,6 +26,13 @@ Risale invece al 1739 la **Società del Triduo dei Muratori**, legata all'emigra
 **Confraternite ancora esistenti: Santissimo Sacramento (abito bianco con mozzetta rossa).**
 
 _Da "Confraternite della Svizzera Italiana" di Davide Adamoli (Ritter Edizioni, 2015)._
+
+
+<hr>
+
+Altre informazioni:
+
+- [Statuto della Confraternita]({% link _info/gruppo-confraternita-statuto.md %}) (2022)
 
 
 

@@ -41,7 +41,7 @@ Le foto vanno estratte via copia/incolla sotto `assets/images/bollettino18`.
 
 ## COMPILAZIONE FALLITA
 
-Compilo in locale con `.prod.sh` e poi:
+Compilo in locale con `./prod.sh` e poi:
 
 - lancio il task su jenkins
 - Copio velocemente con:
@@ -216,6 +216,14 @@ Ill.mo Rev.mo Mons. Vescovo Carlo Ciceri ...
 <div class="notice--primary">
   {{ notice-text | markdownify }}
 </div>
+
+
+## Links
+
+Questi links controllano che la risorsa richiesta esista.
+
+- Links ad un post:  [testo del link]({% post_url 2022-12-08-nuovo_statuto_confraternita %})
+- Link ad una pagina:  [Statuto della Confraternita]({% link _info/gruppo-confraternita-statuto.md %}) 
 
 
 
