@@ -1,6 +1,6 @@
 #! /bin/bash
 
-BOLLETTINO=2411
+BOLLETTINO=2503
 DATACORTA=$(date +%Y-%m-%d)
 DATA=$(date "+%Y-%m-%d %H:%M:%S +0200")
 TITOLO=bollettino-${BOLLETTINO}
@@ -13,7 +13,7 @@ echo "Creo file: ${FILE}"
 cat << EOF > ${FILE}
 ---
 layout: single
-title:  "Insieme: il bollettino parrocchiale ..-.. 2024"
+title:  "Insieme: il bollettino parrocchiale ..-.. 2025"
 date:   ${DATA}
 categories: bollettino ${BOLLETTINO}
 tags: Insieme

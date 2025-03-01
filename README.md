@@ -204,6 +204,29 @@ Le pagine del bollettino vanno create come:
 Partendo dall'ultima alla prima. Appaiono nel bollettino corrente (vedi `mkPaginaBollettino`) 
 e vanno fatte dall'ultima alla prima.
 
+### Prompt per generare il calendario liturgico
+
+Tag: Appuntamenti
+Titolo: Calendario Liturgico Marzo-Gugno 2025
+
+
+        Trasforma il contenuto seguente in un file Markdown.
+        Ciascun mese ha un titolo di livello 2 (##) su una riga a se stante.
+
+        Ogni giorno è su una riga a parte, come elenco puntato, con il giorno in bold, ad esempio:
+
+        ## Gennaio 2025
+
+        - **10 gennaio**: _giovedì_ - biciclettata per tutti, grandi e piccoli
+
+        Se vi sono attività a varie ore del giorno, separali con uno slash. Metti un punto al periodo prima della prima attività, così:
+
+        - **10 gennaio**: _giovedì_ - biciclettata per tutti, grandi e piccoli. _Ore 10:_ prima attività / _Ore 11:_ seconda attività
+
+        Il testo NON deve essere modificato.
+
+
+
 ## Pozzi
 
 
@@ -230,6 +253,15 @@ Questi links controllano che la risorsa richiesta esista.
 ## Immagini
 
 Per le immagini, apro il sorgente DOC,copio ed incollo in preview;  poi salvo come JPG.
+
+    mkdir sito/assets/images/bollettino2503
+    cd sito/assets/images/bollettino2503
+    magick mogrify -format jpg -path . -resize 800x800\>  -auto-orient  -quality 70% ~/Desktop/bollettino_2502/*.jpg
+
+
+
+
+
 
 Le immagini vanno riscalate con ImageMagick:
 

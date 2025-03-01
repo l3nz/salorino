@@ -46,6 +46,10 @@ eb:
   name: "Ettore Brenni"
   bio: "Organista e direttore del Coro"
 
+bb:
+  name: "Beatrice Brenni"
+  bio: "Catechista"
+
 gg:
   name: "Gabriele Gianolli"
   bio: ""
@@ -61,11 +65,4 @@ rtb:
 lnz:
   name: "Lorenzo"
   bio: ""
-
-
-bb:
-  name: "Bea Brenni"
-  bio: "Catechista"
-
-  
 
