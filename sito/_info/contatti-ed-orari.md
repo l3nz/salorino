@@ -12,8 +12,8 @@ title: Contatti ed orari delle S. Messe
 
 ## S. Messe in settimana
 
-* Giovedì ore 9.00  - Oratorio S. Rocco
-* Venerdì ore 9.00 - Oratorio S. Giuseppe
+* Venerdì ore 8.30 - Oratorio S. Rocco
+* Venerdì ore 9.15 - Oratorio S. Giuseppe
 
 
 ## Possibilità di celebrare il sacramento della Confessione o Riconciliazione
