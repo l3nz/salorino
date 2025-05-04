@@ -2,14 +2,13 @@
 title: Il Consiglio Parrocchiale di Salorino
 ---
 
-I membri in carica per il mandato 2021-2025 sono:
+I membri in carica per il mandato 2025-2029 sono:
 
-- Livio Clerici (presidente)
-- Don Angelo Epistolio (dal 1.1.2022)
-- Ettore Brenni
-- Marilena Fontana Mantegazzi
-- Adriano Ponti
-- Don Maksym Podhajski (fino al 31.12.2021)
+- Alessandro Perucchi (presidente)
+- Don Angelo Epistolio
+- Lorenzo Emilitri
+- Claudia Fomasi
+- Marilena Fontana (rappresentante del comune di Mendrisio)
 
 
 <div class="notice--info">
