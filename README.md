@@ -219,7 +219,7 @@ Titolo: Calendario Liturgico Marzo-Gugno 2025
 
         - **10 gennaio**: _giovedì_ - biciclettata per tutti, grandi e piccoli
 
-        Se vi sono attività a varie ore del giorno, separali con uno slash. Metti un punto al periodo prima della prima attività, così:
+        Se vi sono attività a varie ore del giorno, separale con uno slash. Metti un punto al periodo prima della prima attività, così:
 
         - **10 gennaio**: _giovedì_ - biciclettata per tutti, grandi e piccoli. _Ore 10:_ prima attività / _Ore 11:_ seconda attività
 

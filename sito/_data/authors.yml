@@ -16,7 +16,7 @@ ae:
 
 lc:
   name: "Livio Clerici"
-  bio: "Presidente del Consiglio parrocchiale"  
+  bio: "Presidente del Consiglio parrocchiale 2021-2025"  
 
 mp:
   name: "don Maksym Podhajski"
@@ -52,7 +52,7 @@ bb:
 
 gg:
   name: "Gabriele Gianolli"
-  bio: ""
+  bio: "Priore della Confraternita del SS Sacramento"
 
 sp:
   name: "Selina P."
@@ -65,4 +65,22 @@ rtb:
 lnz:
   name: "Lorenzo"
   bio: ""
+
+lu:
+  name: "dr.ssa Laura Emilitri-Uccella"
+  bio: ""
+
+ap:
+  name: "Alessandro Perucchi"
+  bio: "Presidente del Consiglio Parrocchiale"
+
+nc:
+  name: "Natale Cremonini"
+  bio: ""
+
+
+
+
+
+
 
