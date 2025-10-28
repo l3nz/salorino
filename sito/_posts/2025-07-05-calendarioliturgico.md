@@ -23,6 +23,8 @@ tags: Appuntamenti
 ## Ottobre 2025
 
 - **19 ottobre**: *domenica* - Giornata Missionaria. *Ore 10.00:* Santa Messa
+- **31 ottobre**: _venerdì_ - Santa Messa prefestiva. _Ore 17.30:_ Santa Messa prefestiva
+
 
 
 
