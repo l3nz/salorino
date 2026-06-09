@@ -4,7 +4,7 @@ title:  "Novità multimediale - QR Code San Zenone"
 date:   2025-12-01 01:15:00
 categories: bollettino 2512
 tags: Comunità Varie
-author: le
+author: lnz
 ---
 
 **Benvenuti a San Zenone: informazioni multilingue con un QR Code**
